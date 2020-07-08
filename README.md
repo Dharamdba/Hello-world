@@ -1,2 +1,4 @@
 # Hello-world
-first repository
+Hi All,
+
+We are here to play with python .
